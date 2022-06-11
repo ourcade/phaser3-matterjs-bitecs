@@ -7,7 +7,7 @@
 
 This is the example code for using ECS (Entity Component System) via the bitECS library in Phaser 3 with Matter.js physics.
 
-[It corresponds to a 5 part series on YouTube going over the code!](https://www.youtube.com/playlist?list=PLumYWZ2t7CRsqHWA4FjphAQqshKEbIlRK)
+[It corresponds to a 5 part series on YouTube going over the code!](https://www.youtube.com/playlist?list=PLNwtXgWIx3rh4C4bB8oO2CrJflUkLd3Bn)
 
 ## Getting Started
 
